@@ -1,28 +1,23 @@
 # 🇧🇷 Gabriel CodWell
 > **Engenheiro de Software Pleno | .NET & React | Apaixonado por IoT e Integrações**
 
-Sou um desenvolvedor brasileiro movido pelo entusiasmo de construir sistemas que impactam o mundo físico[cite: 5]. Meu foco principal é a criação de arquiteturas corporativas robustas e a integração de hardwares industriais com softwares de alta performance[cite: 5].
+Sou um desenvolvedor brasileiro movido pelo entusiasmo de construir sistemas que impactam o mundo físico. Meu foco principal é a criação de arquiteturas corporativas robustas e a integração de hardwares industriais com softwares de alta performance.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-codwell-7b060a433/)[cite: 5] [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcodwell@gmail.com)[cite: 5]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-codwell-7b060a433/) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcodwell@gmail.com)
 
 ---
 
 ### 💻 Linguagens e Tecnologias
-<!-- Como no vídeo [00:15:21], os ícones com "image" alinham perfeitamente em telas pequenas e grandes -->
-<div style="display: inline_block">
-  <!-- Back-end & Dados -->
+
+<div style="display: inline-block">
   <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" />
   <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" />
   <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" />
   <img align="center" alt="Redis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" />
-  
-  <!-- Front-end & Mobile -->
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
   <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" />
   <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" />
-
-  <!-- Infra & Mensageria -->
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
   <img align="center" alt="RabbitMQ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" />
@@ -39,8 +34,8 @@ Sou um desenvolvedor brasileiro movido pelo entusiasmo de construir sistemas que
 ---
 
 ### 📊 Estatísticas
-<!-- Formato dos Cards de Estatística conforme o tutorial da Larissa Kich (Tema Tokio Night) [00:18:24, 00:20:43] -->
-<div align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Gabriel-CodeWell&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-CodeWell&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8" alt="Top Linguagens" />
-</div>
+
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabriel-CodWell&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-CodWell&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8" alt="Top Linguagens" />
+</p>
