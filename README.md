@@ -1,47 +1,56 @@
-# 🇧🇷 Gabriel CodWell
+# 🇧🇷 Olá, eu sou o Gabriel Guerra!
 
-**Engenheiro de Software Pleno | .NET Core | Full Stack | IoT & Integrações**
+**Engenheiro de Software Pleno | Apaixonado por Tecnologia, IoT e Integrações**
 
-Sou um desenvolvedor brasileiro apaixonado por tecnologia e arquitetura de software, focado em resolver gargalos reais de engenharia. Sou um Engenheiro de Software e Desenvolvedor Full Stack Pleno com mais de 3 anos de experiência no ecossistema .NET[cite: 4]. Resido em Barra-Bonita, SP, e atuo desenvolvendo soluções complexas para os setores de varejo e logística[cite: 4]. 
+Sou um desenvolvedor brasileiro movido pelo entusiasmo de construir sistemas que impactam o mundo físico. Meu foco principal é a criação de arquiteturas robustas e a integração de hardwares industriais com softwares de alta performance. 
 
-Tenho forte histórico em integrações físico-lógicas e Internet das Coisas (IoT), conectando hardwares industriais a sistemas de gestão para entregar aplicações de alta performance em ambientes críticos[cite: 4].
-
----
-
-### 💼 Experiência Profissional em Destaque
-
-**Desenvolvedor / Engenheiro de Software Pleno | InLive Consultoria**
-* Sustento e arquiteto soluções corporativas robustas utilizando .NET Core, React, ASPX e WPF[cite: 4].
-* Liderei a implantação de portais RFID (Zebra FX7500) em Centros de Distribuição de alto volume, automatizando 100% da leitura em esteiras[cite: 4].
-* Desenvolvi e publiquei o aplicativo corporativo InLiveRFID na Google Play Store, integrando coletores para leitura de milhares de tags EPC diárias via webhooks[cite: 4].
-* Gerencio infraestrutura (Windows/Linux) e mensageria (RabbitMQ, Redis), garantindo 99% de uptime com monitoramento avançado via Zabbix e Grafana[cite: 4].
-
-**Desenvolvedor Full Stack Pleno | Zella Sistemas**
-* Desenvolvi e mantive sistemas críticos de gestão de pátio logístico (YMS), empregando .NET Core no back-end e Angular no front-end[cite: 4].
-* Implementei a integração direta com balanças de pesagem rodoviária, eliminando a inserção manual e reduzindo erros de operação[cite: 4].
-* Mapeei e refatorei fluxos operacionais logísticos, aumentando a eficiência e reduzindo gargalos nas operações de pátio[cite: 4].
+Abaixo, você encontra as tecnologias e padrões que utilizo no meu dia a dia para resolver problemas complexos:
 
 ---
 
-### 💻 Stack Tecnológica
+### 💻 Minha Stack Tecnológica
 
-* **Linguagens & Frameworks:** C#, TypeScript, JavaScript, Kotlin, .NET Core, React, Angular, Jetpack Compose[cite: 4].
-* **Arquitetura & Padrões:** Clean Architecture, CQRS, Repository Pattern, MVC, APIs REST[cite: 4].
-* **Mensageria & Dados:** SQL Server, Redis, RabbitMQ, Entity Framework Core[cite: 4].
-* **Infraestrutura & DevOps:** Docker, Windows Server, Linux, Shell/PowerShell, Zabbix, Grafana[cite: 4].
+**Linguagens de Programação:**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Shell/PowerShell](https://img.shields.io/badge/Shell_/_PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
----
+**Frameworks & UI:**
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![WPF & ASPX](https://img.shields.io/badge/WPF_%26_ASPX-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🚀 Projetos Vitrine
+**Dados, Cache & Mensageria:**
+![SQL Server](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-000000?style=for-the-badge&logo=dotnet&logoColor=white)
 
-* **[Enterprise.TaskFlow API](URL_AQUI):** Web API em .NET 8 demonstrando Clean Architecture de nível corporativo. Implementa CQRS via MediatR, processamento assíncrono com RabbitMQ, cache distribuído com Redis e controle de concorrência otimista. Infraestrutura 100% orquestrada via Docker Compose.
-* **[Enterprise.TaskFlow Web](URL_AQUI):** Dashboard corporativo desenvolvido em React e TypeScript para atuar como a camada de visualização em tempo real do ecossistema TaskFlow, consumindo a API com autenticação JWT segura.
+**Infraestrutura, DevOps & Monitoramento:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Arquitetura, Padrões & Integrações:**
+![CQRS](https://img.shields.io/badge/CQRS-252526?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-252526?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-252526?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-252526?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-252526?style=for-the-badge)
+![RFID](https://img.shields.io/badge/RFID_&_IoT-252526?style=for-the-badge)
 
 ---
 
 ### 🌐 Contato e Conexões
 
-Estou sempre aberto a discutir arquitetura de sistemas críticos, integrações de hardware e desafios de escalabilidade.
-
-* **LinkedIn:** [linkedin.com/in/gabriel-codwell-7b060a433/](https://linkedin.com/in/gabriel-codwell-7b060a433/)[cite: 4]
-* **E-mail:** [gabrielcodwell@gmail.com](mailto:gabrielcodwell@gmail.com)[cite: 4]
+* **LinkedIn:** [linkedin.com/in/gabriel-codwell](https://linkedin.com/in/gabriel-codwell)
+* **E-mail:** [gabrielcodwell@gmail.com](mailto:gabrielcodwell@gmail.com)
