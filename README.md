@@ -1,56 +1,46 @@
-# 🇧🇷 Olá, eu sou o Gabriel Guerra!
+# 🇧🇷 Gabriel CodWell
+> **Engenheiro de Software Pleno | .NET & React | Apaixonado por IoT e Integrações**
 
-**Engenheiro de Software Pleno | Apaixonado por Tecnologia, IoT e Integrações**
+Sou um desenvolvedor brasileiro movido pelo entusiasmo de construir sistemas que impactam o mundo físico[cite: 5]. Meu foco principal é a criação de arquiteturas corporativas robustas e a integração de hardwares industriais com softwares de alta performance[cite: 5].
 
-Sou um desenvolvedor brasileiro movido pelo entusiasmo de construir sistemas que impactam o mundo físico. Meu foco principal é a criação de arquiteturas robustas e a integração de hardwares industriais com softwares de alta performance. 
-
-Abaixo, você encontra as tecnologias e padrões que utilizo no meu dia a dia para resolver problemas complexos:
-
----
-
-### 💻 Minha Stack Tecnológica
-
-**Linguagens de Programação:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Shell/PowerShell](https://img.shields.io/badge/Shell_/_PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**Frameworks & UI:**
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![WPF & ASPX](https://img.shields.io/badge/WPF_%26_ASPX-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
-
-**Dados, Cache & Mensageria:**
-![SQL Server](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-000000?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Infraestrutura, DevOps & Monitoramento:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**Arquitetura, Padrões & Integrações:**
-![CQRS](https://img.shields.io/badge/CQRS-252526?style=for-the-badge)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-252526?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-252526?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-252526?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-252526?style=for-the-badge)
-![RFID](https://img.shields.io/badge/RFID_&_IoT-252526?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-codwell-7b060a433/)[cite: 5] [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcodwell@gmail.com)[cite: 5]
 
 ---
 
-### 🌐 Contato e Conexões
+### 💻 Linguagens e Tecnologias
+<!-- Como no vídeo [00:15:21], os ícones com "image" alinham perfeitamente em telas pequenas e grandes -->
+<div style="display: inline_block">
+  <!-- Back-end & Dados -->
+  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" />
+  <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" />
+  <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" />
+  <img align="center" alt="Redis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" />
+  
+  <!-- Front-end & Mobile -->
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" />
+  <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" />
 
-* **LinkedIn:** [linkedin.com/in/gabriel-codwell](https://linkedin.com/in/gabriel-codwell)
-* **E-mail:** [gabrielcodwell@gmail.com](mailto:gabrielcodwell@gmail.com)
+  <!-- Infra & Mensageria -->
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
+  <img align="center" alt="RabbitMQ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" />
+</div>
+
+<br>
+
+---
+
+### 🚀 Meus Projetos Vitrine (Ecossistema TaskFlow)
+*   ⚙️ **[Enterprise.TaskFlow API](URL_AQUI):** Web API em .NET 8 demonstrando Clean Architecture, CQRS, mensageria com RabbitMQ, Cache (Redis) e orquestração Docker.
+*   💻 **[Enterprise.TaskFlow Web](URL_AQUI):** Dashboard corporativo em React e TypeScript para atuar como a visualização em tempo real do ecossistema, consumindo a API com autenticação JWT segura.
+
+---
+
+### 📊 Estatísticas
+<!-- Formato dos Cards de Estatística conforme o tutorial da Larissa Kich (Tema Tokio Night) [00:18:24, 00:20:43] -->
+<div align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Gabriel-CodeWell&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-CodeWell&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8" alt="Top Linguagens" />
+</div>
